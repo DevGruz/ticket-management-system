@@ -8,15 +8,13 @@ This Python script provides a simple ticket management system that allows users 
 4. **Error Handling:** The script includes error handling using  try-except blocks to handle invalid input and other potential errors during execution.
 
 ## How to Use
-1. Clone the repository to your local machine:
-   
+1. Clone the repository to your local machine:<br>
 ```bash git clone https://github.com/yourusername/ticket-management-system.git```
 
-3. Navigate to the directory containing the script:
+3. Navigate to the directory containing the script:<br>
 ```cd ticket-management-system```
 
-4. Run the script:
-   
+4. Run the script:<br>
 ```python main.py```
 
 6. Follow the on-screen instructions to create events, purchase tickets, view ticket details, and exit the program
