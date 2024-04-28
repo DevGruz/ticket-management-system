@@ -16,5 +16,7 @@ This Python script provides a simple ticket management system that allows users 
 
 4. Run the script:<br>
 ```python main.py```
+or
+```python3 main.py```
 
 6. Follow the on-screen instructions to create events, purchase tickets, view ticket details, and exit the program
