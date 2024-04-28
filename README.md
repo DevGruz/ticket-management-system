@@ -9,7 +9,7 @@ This Python script provides a simple ticket management system that allows users 
 
 ## How to Use
 1. Clone the repository to your local machine:<br>
-```bash git clone https://github.com/Qwerty-111/ticket-management-system.git```
+```git clone https://github.com/Qwerty-111/ticket-management-system.git```
 
 3. Navigate to the directory containing the script:<br>
 ```cd ticket-management-system```
