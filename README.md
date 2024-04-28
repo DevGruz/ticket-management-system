@@ -9,12 +9,14 @@ This Python script provides a simple ticket management system that allows users 
 
 ## How to Use
 1. Clone the repository to your local machine:
-```bash git clone https://github.com/yourusername/simple-ticket-management.git```
+   
+```bash git clone https://github.com/yourusername/ticket-management-system.git```
 
-2. Navigate to the directory containing the script:
-```cd simple-ticket-management```
+3. Navigate to the directory containing the script:
+```cd ticket-management-system```
 
-3. Run the script:
-```python ticket_management.py```
+4. Run the script:
+   
+```python main.py```
 
-4. Follow the on-screen instructions to create events, purchase tickets, view ticket details, and exit the program
+6. Follow the on-screen instructions to create events, purchase tickets, view ticket details, and exit the program
